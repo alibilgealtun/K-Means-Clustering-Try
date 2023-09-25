@@ -1,2 +1,2 @@
-# A basic K Means Clustering try copied from Kaggle.
+# A basic K Means Clustering try
 
